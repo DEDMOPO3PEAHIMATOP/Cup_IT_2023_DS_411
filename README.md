@@ -5,4 +5,4 @@
 
 | Название | Описание | Используемые библиотеки
 | --- | --- | ---
-| [01 Предобработка текстов и проверка гипотез семантического характера](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/Class_Neuron.ipynb)| Реализуем класс нейрона. | 
+| [01 Предобработка текстов и проверка гипотез семантического характера](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/Class_Neuron.ipynb)| Реализуем класс нейрона. | json, numpy, pandas, nltk, matplotlib, seaborn
