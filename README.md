@@ -1,9 +1,7 @@
 # Cup_IT_2023_DS_411
-Репозиторий файлов по проекту Cup IT 2023 DS команды 411
+![image](https://user-images.githubusercontent.com/10894740/226216876-58aa462c-d09f-43dc-8cb0-f1ede88eb47a.png)
+scores on a part of a train set
 
-В данном разделе представлены:
+Best model from our training process you can load [here](https://drive.google.com/file/d/1YVLUY9SFjkKZS85WD3EER0L5dW4hcU93/view?usp=sharing)
 
-| Название | Описание | Используемые библиотеки
-| --- | --- | ---
-| [01 Предобработка текстов и проверка гипотез семантического характера](https://github.com/DEDMOPO3PEAHIMATOP/Cup_IT_2023_DS_411/blob/main/%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.ipynb)| Реализуем класс нейрона. | json, numpy, pandas, nltk, matplotlib, seaborn
-| [02 Попытка дообучения DistelBERT с интегрированным полносвязным линейным слоем для классифиации](https://github.com/DEDMOPO3PEAHIMATOP/Cup_IT_2023_DS_411/blob/main/Model_DistelBERT_plus_Classification_Laer.ipynb)| Реализуем класс нейрона. | sklearn, torch, transformers, json, matplotlib, numpy, pandas
+
